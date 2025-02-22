@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hola! Soy Jorge Casanova Sánchez</h1>  
-<h3 align="center">🚀 Desarrollador Junior | Apasionado por la innovación y el aprendizaje continuo</h3>  
+<h3 align="center">🚀 Desarrollador Junior | Apasionado por el aprendizaje continuo</h3>  
 
 <h4 align="center">👾 Actualmente estoy aprendiendo <b>Java, Spring, ReactJS</b></h4>  
 

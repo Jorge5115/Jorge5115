@@ -37,6 +37,6 @@
 ---
 
 ## 📊 Estadísticas de GitHub  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuUsuarioGitHub&show_icons=true&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jorge5115&show_icons=true&theme=dark)  
 
 🚀 ¡Siempre aprendiendo y creciendo en el mundo del desarrollo!  

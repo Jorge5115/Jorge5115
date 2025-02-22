@@ -3,7 +3,6 @@
 
 📧 jorge.casanova.sanchez@gmail.com  
 🌍 Guadarrama, Madrid  
-🚗 Disponibilidad total | Carné de conducir  
 
 ---
 

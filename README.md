@@ -1,11 +1,8 @@
 # 👋 ¡Hola! Soy Jorge Casanova Sánchez  
 ### 🚀 Desarrollador Junior | Apasionado por la innovación y el aprendizaje continuo  
 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Jorge5115&color=blue&style=flat)
-
----
-
-🌍 Guadarrama, Madrid  
 
 ---
 

@@ -1,5 +1,5 @@
-# 👋 ¡Hola! Soy Jorge Casanova Sánchez  
-### 🚀 Desarrollador Junior | Apasionado por la innovación y el aprendizaje continuo  
+<h1 align="center">👋 ¡Hola! Soy Jorge Casanova Sánchez</h1>  
+<h3 align="center">🚀 Desarrollador Junior | Apasionado por la innovación y el aprendizaje continuo</h3>  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jorge5115&color=blue&style=flat" alt="Profile Views"/>
@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠️ Tecnologías y Herramientas  
+<h2 align="center">🛠️ Tecnologías y Herramientas</h2>  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="50"/>
@@ -19,23 +19,27 @@
 
 ---
 
-## 💼 Experiencia Laboral  
-### 🏢 Desarrollador Web en Prácticas - Abaco Developments *(Sep 2024 - Dic 2024)*  
+<h2 align="center">💼 Experiencia Laboral</h2>  
+<h3 align="center">🏢 Desarrollador Web en Prácticas - Abaco Developments *(Sep 2024 - Dic 2024)*</h3>  
+<p align="center">  
 🔹 Diseño y desarrollo de un ERP a medida.  
-🔹 Uso de **JavaScript** para mejorar la interfaz de usuario.  
+🔹 Uso de <b>JavaScript</b> para mejorar la interfaz de usuario.  
 🔹 Desarrollo de soluciones web personalizadas para clientes.  
+</p>  
 
 ---
 
-## 🎓 Formación Académica  
-🎓 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma**  
-📍 I.E.S Infanta Elena | Galapagar, Madrid | 2024  
+<h2 align="center">🎓 Formación Académica</h2>  
+<p align="center">
+  🎓 <b>Técnico Superior en Desarrollo de Aplicaciones Multiplataforma</b><br>
+  📍 I.E.S Infanta Elena | Galapagar, Madrid | 2024  
+</p>
 
 ---
 
-## 📊 Estadísticas de GitHub  
+<h2 align="center">📊 Estadísticas de GitHub</h2>  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jorge5115&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
 
-🚀 ¡Siempre aprendiendo y creciendo en el mundo del desarrollo!  
+<h3 align="center">🚀 ¡Siempre aprendiendo y creciendo en el mundo del desarrollo! 🚀</h3>

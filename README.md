@@ -1,11 +1,11 @@
 <h1 align="center">👋 ¡Hola! Soy Jorge Casanova Sánchez</h1>  
 <h3 align="center">🚀 Desarrollador Junior | Apasionado por la innovación y el aprendizaje continuo</h3>  
 
+<h4 align="center">🌱 Actualmente estoy aprendiendo <b>Java, Spring, JavaScript, ReactJS</b></h4>  
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jorge5115&color=blue&style=flat" alt="Profile Views"/>
 </p>
-
----
 
 <h2 align="center">🛠️ Tecnologías y Herramientas</h2>  
 <p align="center">
@@ -17,8 +17,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
 </p>
 
----
-
 <h2 align="center">💼 Experiencia Laboral</h2>  
 <h3 align="center">🏢 Desarrollador Web en Prácticas - Abaco Developments *(Sep 2024 - Dic 2024)*</h3>  
 <p align="center">  
@@ -27,15 +25,11 @@
 🔹 Desarrollo de soluciones web personalizadas para clientes.  
 </p>  
 
----
-
 <h2 align="center">🎓 Formación Académica</h2>  
 <p align="center">
   🎓 <b>Técnico Superior en Desarrollo de Aplicaciones Multiplataforma</b><br>
   📍 I.E.S Infanta Elena | Galapagar, Madrid | 2024  
 </p>
-
----
 
 <h2 align="center">📊 Estadísticas de GitHub</h2>  
 <p align="center">

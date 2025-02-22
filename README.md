@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Jorge Casanova Sánchez</h1>  
 <h3 align="center">🚀 Desarrollador Junior | Apasionado por la innovación y el aprendizaje continuo</h3>  
 
-<h4 align="center">🌱 Actualmente estoy aprendiendo <b>Java, Spring, JavaScript, ReactJS</b></h4>  
+<h4 align="center">👾 Actualmente estoy aprendiendo <b>Java, Spring, ReactJS</b></h4>  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jorge5115&color=blue&style=flat" alt="Profile Views"/>
@@ -22,7 +22,6 @@
 <p align="center">  
 🔹 Diseño y desarrollo de un ERP a medida.  
 🔹 Uso de <b>JavaScript</b> para mejorar la interfaz de usuario.  
-🔹 Desarrollo de soluciones web personalizadas para clientes.  
 </p>  
 
 <h2 align="center">🎓 Formación Académica</h2>  

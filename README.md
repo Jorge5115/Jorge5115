@@ -19,7 +19,7 @@
 
 ---
 
-## Technologies
+## Technologies:
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/>
@@ -34,7 +34,7 @@
 
 ---
 
-## Work Experience
+## Work Experience:
 
 **🏢 Web Developer Intern – Abaco Developments** *(Sep 2024 – Dec 2024)*  
 🔹 Designed and developed a custom ERP system  
@@ -42,19 +42,34 @@
 
 ---
 
-## Academic Background
+## Academic Background:
 
 🎓 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma**  
 📍 *I.E.S Infanta Elena* – Galapagar, Madrid – 2024
 
 ---
 
-## 📊 GitHub Stats
+## Links:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jorge5115&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <a href="https://jorge5115.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/Jorge5115" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Jorge5115-6e5494?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/jorge-casanova-s%C3%A1nchez-763087320" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Jorge%20Casanova%20Sánchez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<h3 align="center">🚀 ¡Siempre aprendiendo y creciendo en el mundo del desarrollo! 🚀</h3>
+## Contact:
+
+<p align="center">
+  <a href="mailto:jorge.casanova.sanchez@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20jorge.casanova.sanchez@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+

@@ -1,4 +1,4 @@
-0# Welcome, I'm Jorge Casanova Sánchez 👋
+# Welcome, I'm Jorge Casanova Sánchez 👋
 
 🚀 Junior Developer | Passionate about Continuous Learning
 

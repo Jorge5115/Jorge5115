@@ -51,13 +51,7 @@
 
 ## Links:
 
-<p align="center">
-  <a href="https://jorge5115.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/Jorge5115" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Jorge5115-6e5494?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<p align="left">
   <a href="https://linkedin.com/in/jorge-casanova-s%C3%A1nchez-763087320" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Jorge%20Casanova%20Sánchez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -67,10 +61,9 @@
 
 ## Contact:
 
-<p align="center">
+<p align="left">
   <a href="mailto:jorge.casanova.sanchez@gmail.com">
-    <img src="https://img.shields.io/badge/jorge.casanova.sanchez@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&labelColor=EA4335" />
+    <img src="https://img.shields.io/badge/M-jorge.casanova.sanchez@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white"/><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&labelColor=EA4335&logo=gmail&logoColor=white"/>
   </a>
 </p>
 

@@ -4,7 +4,7 @@
 
 ## 📈 GitHub Contributions
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Jorge5115&theme=dark&hide_border=false" alt="GitHub Streak"/>
 </p>
 
@@ -12,8 +12,7 @@
 
 🎯 I'm passionate about technology, programming, and continuous learning.  
 🌱 Currently learning **Java**, **Spring**, and **ReactJS**.  
-🧠 Always seeking personal growth and development.  
-🤝 I enjoy teamwork and building meaningful projects.
+🧠 Always seeking personal growth and development. 
 
 
 ## Technologies:

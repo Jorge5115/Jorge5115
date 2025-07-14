@@ -63,7 +63,7 @@
 
 <p align="left">
   <a href="mailto:jorge.casanova.sanchez@gmail.com">
-    <img src="https://img.shields.io/badge/M-jorge.casanova.sanchez@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white"/><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&labelColor=EA4335&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jorge.casanova.sanchez@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white"/><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&labelColor=EA4335"/>
   </a>
 </p>
 

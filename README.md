@@ -8,8 +8,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Jorge5115&theme=dark&hide_border=false" alt="GitHub Streak"/>
 </p>
 
----
-
 ##  About Me
 
 🎯 I'm passionate about technology, programming, and continuous learning.  
@@ -17,7 +15,6 @@
 🧠 Always seeking personal growth and development.  
 🤝 I enjoy teamwork and building meaningful projects.
 
----
 
 ## Technologies:
 
@@ -33,22 +30,18 @@
 </p>
 
 
----
-
 ## Work Experience:
 
 **🏢 Web Developer Intern – Abaco Developments** *(Sep 2024 – Dec 2024)*  
 🔹 Designed and developed a custom ERP system  
 🔹 Improved UI using **JavaScript**
 
----
 
 ## Academic Background:
 
 🎓 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma**  
 📍 *I.E.S Infanta Elena* – Galapagar, Madrid – 2024
 
----
 
 ## Links:
 
@@ -58,7 +51,6 @@
   </a>
 </p>
 
----
 
 ## Contact:
 

@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 🎯 I'm passionate about technology, programming, and continuous learning.  
 🌱 Currently learning **Java**, **Spring**, and **ReactJS**.  
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/>
@@ -34,7 +34,7 @@
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 **🏢 Web Developer Intern – Abaco Developments** *(Sep 2024 – Dec 2024)*  
 🔹 Designed and developed a custom ERP system  
@@ -42,7 +42,7 @@
 
 ---
 
-## 🎓 Academic Background
+## Academic Background
 
 🎓 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma**  
 📍 *I.E.S Infanta Elena* – Galapagar, Madrid – 2024

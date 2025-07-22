@@ -45,12 +45,9 @@
 ## Links:
 
 <p align="left">
-  <a href="https://jorge5115.github.io/portafolios-jorge/" target="_blank">
+   <a href="https://jorge5115.github.io/portafolios-jorge/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Jorge%20Casanova-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Jorge Casanova" />
   </a>
-</p>
-
-<p align="left">
   <a href="https://linkedin.com/in/jorge-casanova-s%C3%A1nchez-763087320" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Jorge%20Casanova%20Sánchez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>

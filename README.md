@@ -44,7 +44,7 @@
 
 ## Links:
 
-<a href="https://jorge5115.github.io/portafolios-jorge/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Jorge5115-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Jorge5115"/></a><a href="https://linkedin.com/in/jorge-casanova-s%C3%A1nchez-763087320" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Jorge%20Casanova%20Sánchez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://jorge5115.github.io/portafolios-jorge/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Jorge5115-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Jorge5115"/></a><a href="https://linkedin.com/in/jorge-casanova-s%C3%A1nchez-763087320" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-@JorgeCasanovaSánchez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ## Contact:
 

@@ -8,6 +8,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Jorge5115&theme=dark&hide_border=false" alt="GitHub Streak"/>
 </p>
 
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Jorge5115&theme=dark&hide_border=false" alt="GitHub Streak"/>
+</p>
+
 ##  About Me
 
 🎯 I'm passionate about technology, programming, and continuous learning.  
